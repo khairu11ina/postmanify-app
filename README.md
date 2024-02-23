@@ -21,7 +21,7 @@ A simple web version of Postman using React. UI is designed using Tailwind CSS. 
 
 ## App demo
 
-[Click to see the demo app]()
+[Click to see the demo app](https://postmanify-app.vercel.app/)
 
 ## Features
 
