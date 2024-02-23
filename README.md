@@ -34,9 +34,9 @@ A simple web version of Postman using React. UI is designed using Tailwind CSS. 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-$ cd Postman-Clone-React
 # Install dependencies
 $ yarn
+
 # Run the app
 $ yarn start
 ```
