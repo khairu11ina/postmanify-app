@@ -1,42 +1,41 @@
-<h1 align="center">
-  Postmanify- App
-</h1>
-<p align="center">
-A simple web version of Postman using React. UI is designed using Tailwind CSS. This website can be used for accessing resources on web via HTTP. It helps developers in API developement. 
-</p>
+# 📬 **Postmanify App**
 
-<h4 align="center">
-  Tech Stack and Dependencies: 
-  <a href="http://reactjs.org" target="_blank">React</a>,
-  <a href="https://axios-http.com" target="_blank">Axios</a>, 
-  <a href="https://codemirror.net/" target="_blank">CodeMirror</a> and 
-  <a href="https://tailwindcss.com" target="_blank">Tailwind CSS</a>.
-</h4>
+## 📃 Table of Contents
 
-<p align="center">
-  <a href="#demo">App demo</a> •
-  <a href="#features">Features</a> •
-  <a href="#setup">Setup</a> •
-</p>
+- [Description](#-description)
+- [Screenshots](#-screenshots)
+- [Technologies](#-technologies)
+- [Features](#-features)
+- [Live demo](#-live-demo)
+- [Launch](#-launch)
+- [Misc](#-misc)
 
-## App demo
+## 📝 Description
 
-[Click to see the demo app](https://postmanify-app.vercel.app/)
+A simple web version of Postman using React. UI is designed using Tailwind CSS. This website can be used for accessing resources on web via HTTP. It helps developers in API developement.
 
-## Features
+## 🛠️ Technologies
 
-- Http Request Methods - GET, POST, PUT, PATCH, DELETE
-- Enabled to write API test cases in JSON format
-- View response to validate your request
+- `React`
+- `Axios`
+- `CodeMirror`
+- `Tailwind CSS`
 
-## Setup
+## 🦄 Features
 
-Type in your command line:
+- **Http Request Methods** - GET, POST, PUT, PATCH, DELETE
+- **Enabled to write API test cases in JSON format**
+- **View response to validate your request**
 
-```bash
-# Install dependencies
-$ yarn
+## 🎥 Live demo
 
-# Run the app
-$ yarn start
-```
+Check out the live demo of app [here](https://postmanify-app.vercel.app/)
+
+## 🚀 Launch
+
+To run the project in your local environment, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
+3. Run `npm run start` or `yarn start` to get the project started.
+4. Open [http://localhost:3000](http://localhost:3000) (or the address shown in your console) in your web browser to view the app.
