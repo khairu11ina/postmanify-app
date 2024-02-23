@@ -8,11 +8,14 @@
 - [Features](#-features)
 - [Live demo](#-live-demo)
 - [Launch](#-launch)
-- [Misc](#-misc)
 
 ## 📝 Description
 
 A simple web version of Postman using React. UI is designed using Tailwind CSS. This website can be used for accessing resources on web via HTTP. It helps developers in API developement.
+
+## 📸 Screenshots
+
+![Main screen](.github/screenshots/screenshot.png 'Main screen')
 
 ## 🛠️ Technologies
 
